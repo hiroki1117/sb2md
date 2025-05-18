@@ -27,7 +27,7 @@ type line struct {
 var (
 	targetProject string
 	targetPage    string
-	rgxTarget     = regexp.MustCompile(`([^\/]+)/([^\/]+)`)
+	rgxTarget     = regexp.MustCompile(`([^/]+)/(.+)`)
 )
 
 var rootCmd = &cobra.Command{
