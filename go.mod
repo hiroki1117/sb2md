@@ -1,4 +1,4 @@
-module github.com/kondoumh/sb2md
+module github.com/hiroki1117/sb2md
 
 go 1.22
 
