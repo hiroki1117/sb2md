@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kondoumh/sb2md/cmd"
+import "github.com/hiroki1117/sb2md/cmd"
 
 func main() {
 	cmd.Execute()
